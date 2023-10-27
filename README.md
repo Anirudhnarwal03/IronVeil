@@ -2,7 +2,7 @@
 
 ## Description
 
-"Iron Veil" is an interactive text-based Spy-Thriller narrative set against the backdrop of two ideologically opposed nations: socialist Varusha and capitalist Estronia. Players assume the role of Rajavi, a Varushan spy, aiming to extract classified data from Estronia's defense ministry. The game is built using HTML and includes supplementary PDFs to enrich the user's experience.
+"Iron Veil" is an interactive text-based Spy-Thriller narrative set against the backdrop of two ideologically opposed nations: socialist Varusha and capitalist Estronia. Players assume the role of Rajavi, a Varushan spy, aiming to extract classified data from Estronia's defense ministry. The game is built using HTML in **Twine** and includes supplementary PDFs to enrich the user's experience.
 
 ### Key Features
 
@@ -41,7 +41,7 @@ To dive into this interactive story, simply open the `StoryGame.html` file in yo
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome! Make sure to use Twine to contribute to the story!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
